@@ -5,7 +5,7 @@ A lightweight Python module for detecting feet or shoes in images using a fine-t
 Trained on a small custom dataset and supports both CPU and Apple Silicon GPU (MPS) inference.  
 Model weights are automatically downloaded from Hugging Face.
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/tonyassi/foot-detection)
+Web demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/tonyassi/foot-detection)
 
 ---
 
