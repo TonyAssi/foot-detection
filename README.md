@@ -17,6 +17,17 @@ Model weights are automatically downloaded from Hugging Face.
 
 ---
 
+## ⬇️ Download
+
+To download this repository:
+
+```bash
+git clone https://github.com/tonyassi/FootDetection.git
+cd FootDetection
+```
+
+---
+
 ## 📦 Installation
 
 ```bash
