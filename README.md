@@ -20,7 +20,7 @@ Model weights are automatically downloaded from Hugging Face.
 ## 📦 Installation
 
 ```bash
-pip install torch torchvision pillow huggingface_hub
+pip install -r requirements.txt
 ```
 
 ---
