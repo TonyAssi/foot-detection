@@ -1,5 +1,7 @@
 # 🦶 FootDetection
 
+![image](https://github.com/user-attachments/assets/f5e517e9-886b-4c7b-8f1c-ef45847810b3)
+
 A lightweight Python module for detecting feet or shoes in images using a fine-tuned Faster R-CNN model (PyTorch + Torchvision).
 
 Trained on a small custom dataset and supports both CPU and Apple Silicon GPU (MPS) inference.  
